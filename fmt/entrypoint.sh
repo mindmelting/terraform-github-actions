@@ -1,5 +1,5 @@
 #!/bin/sh
-set -e
+set -x
 cd "${TF_ACTION_WORKING_DIR:-.}"
 
 set +e
